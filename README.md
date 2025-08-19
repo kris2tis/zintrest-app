@@ -42,10 +42,34 @@ First, clone this repository
 ```bash
  git clone git@github.com:kris2tis/zintrest-app.git
 ```
-for the backend 
-- Install MongoDB [portfolio]([https://katherineoelsner.com/](https://www.mongodb.com/docs/manual/installation/))
 Then install the backend and frontend dependencies
 ```bash
 npm i 
 ```
+To start the backend
+- [Install MongoDB](https://www.mongodb.com/docs/manual/installation/)
+- then execute the following command
+```bash
+ npm run seed
+```
+- And run the following command to start the backend
+```bash
+ npm run dev
+```
+To start the front end 
+- Run the following command
+```bash
+ npm run dev
+```
+And then go to this address
+```bash
+ localhost:3000
+```
+
+
+
+
+
+
+
 
