@@ -40,6 +40,12 @@ The appearance of Zinterest is inspired by Pinterest, this project is made to ma
 ## Installation
 First, clone this repository
 ```bash
-  npm install my-project
-  cd my-project
+ git clone git@github.com:kris2tis/zintrest-app.git
 ```
+for the backend 
+- Install MongoDB [portfolio]([https://katherineoelsner.com/](https://www.mongodb.com/docs/manual/installation/))
+Then install the backend and frontend dependencies
+```bash
+npm i 
+```
+
